@@ -85,6 +85,7 @@
     flex-direction: column;
     gap: 0.5rem;
     text-align: center;
+    margin: 10vh;
   }
   .section__pic-container {
     width: auto;
